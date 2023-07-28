@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kornelia7
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML.
+- 👀 I’m interested in Python Development.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
